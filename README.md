@@ -1,3 +1,5 @@
+**Showcase:** data cleaning and analysis, data plotting.
+
 **The goal of this project is to Explore the survey on Star Wars franchise (which episode is considered the best, which characters are most popular and which ones are most hated etc.)**
 
 **The survey was conducted by the fivethirtyeight.com website in 2014 in the light of the then upcoming The Force Awakens movie.**
